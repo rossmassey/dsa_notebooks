@@ -1,0 +1,4 @@
+jupyterlab
+ipykernel
+import-ipynb
+matplotlib
